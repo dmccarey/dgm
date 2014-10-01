@@ -34,7 +34,7 @@ collaborators:
     
 # Build settings
 markdown: kramdown
-gems: ['jekyll-timeago']
+gems: ['jekyll-timeago', 'jekyll-redirect-from']
 jekyll_timeago:
   depth: 1 # Level of detail
   today: 'hoy'
